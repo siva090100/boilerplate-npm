@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Siva",
 	"description": "This is a test api building project",
+	"keywords": ["freecodecamp","test"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
